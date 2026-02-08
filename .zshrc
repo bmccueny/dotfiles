@@ -40,4 +40,3 @@ alias kitty='kitty-topleft'
 alias viz='cava'
 alias god='nt-quote'
 alias ff='fastfetch'
-export OPENAI_API_KEY=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
